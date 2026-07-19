@@ -8,7 +8,11 @@ title: Asking Machine
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Asking-Machine (gemma)](https://asking-machine.github.io/gemma/)
+[[Asking-Machine (metai)](https://asking-machine.github.io/metai/)
+
+[Asking-Machine (fireworksr)](https://asking-machine.github.io/fireworksr/)
+
+Asking-Machine (gemma)](https://asking-machine.github.io/gemma/)
 
 [Asking-Machine (openai)](https://asking-machine.github.io/openai/)
 
