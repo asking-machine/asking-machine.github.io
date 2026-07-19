@@ -14,7 +14,7 @@ title: Asking Machine
 
 Asking-Machine (gemma)](https://asking-machine.github.io/gemma/)
 
-[Asking-Machine (openai)](https://asking-machine.github.io/openai/)
+[Asking-Machine (oaio)](https://asking-machine.github.io/openai/)
 
 [Asking-Machine (bastk)](https://asking-machine.github.io/bastk/)
 
